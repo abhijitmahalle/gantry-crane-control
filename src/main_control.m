@@ -1,4 +1,4 @@
-% Written by: Hrushikesh Budhale
+% Written by: Abhijit Mahalle
 
 %% Define necessary Symbols
 syms F g M m1 m2 L1 L2 x t1 t2 xd t1d t2d;

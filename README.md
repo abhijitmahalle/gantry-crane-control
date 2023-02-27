@@ -1,8 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Gantry crane control
 LQR and LQG control for gantry crane with 2 masses at different height
 
 ### Author
-- Hrushikesh Budhale
+- Abhijit Mahalle
 ## Table of Contents
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
